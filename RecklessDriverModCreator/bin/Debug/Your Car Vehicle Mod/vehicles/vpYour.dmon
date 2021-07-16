@@ -1,0 +1,6 @@
+baseName = "vpYour"
+vehicleName = "Your Car"
+colors = "Blue, Green"
+carLocked = false
+showcaseDescription = "It go zoOOM zooooOOOOOOOOOOM!"
+uiScale = 1

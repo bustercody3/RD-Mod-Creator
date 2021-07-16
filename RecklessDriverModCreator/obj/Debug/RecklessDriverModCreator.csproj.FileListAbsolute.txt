@@ -1,0 +1,10 @@
+D:\RDModCreator\RecklessDriverModCreator\bin\Debug\RecklessDriverModCreator.exe
+D:\RDModCreator\RecklessDriverModCreator\bin\Debug\RecklessDriverModCreator.exe.config
+D:\RDModCreator\RecklessDriverModCreator\obj\Debug\RecklessDriverModCreator.Form1.resources
+D:\RDModCreator\RecklessDriverModCreator\obj\Debug\RecklessDriverModCreator.Properties.Resources.resources
+D:\RDModCreator\RecklessDriverModCreator\obj\Debug\RecklessDriverModCreator.csproj.GenerateResource.cache
+D:\RDModCreator\RecklessDriverModCreator\obj\Debug\RecklessDriverModCreator.csproj.CoreCompileInputs.cache
+D:\RDModCreator\RecklessDriverModCreator\obj\Debug\RecklessDriverModCreator.exe
+D:\RDModCreator\RecklessDriverModCreator\obj\Debug\RecklessDriverModCreator.pdb
+D:\RDModCreator\RecklessDriverModCreator\bin\Debug\RecklessDriverModCreator.pdb
+D:\RDModCreator\RecklessDriverModCreator\obj\Debug\RecklessDriverModCreator.csprojAssemblyReference.cache
